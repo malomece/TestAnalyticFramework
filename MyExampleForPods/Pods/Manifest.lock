@@ -1,0 +1,16 @@
+PODS:
+  - TestAnalyticFramework (1.0.1)
+
+DEPENDENCIES:
+  - TestAnalyticFramework (from `../TestAnalyticFramework`)
+
+EXTERNAL SOURCES:
+  TestAnalyticFramework:
+    :path: "../TestAnalyticFramework"
+
+SPEC CHECKSUMS:
+  TestAnalyticFramework: a44eacd454381edaabbc5851651c6d69f5310c19
+
+PODFILE CHECKSUM: 801650bf9cbcdb779256d68a3ded4f24443713d4
+
+COCOAPODS: 1.9.1

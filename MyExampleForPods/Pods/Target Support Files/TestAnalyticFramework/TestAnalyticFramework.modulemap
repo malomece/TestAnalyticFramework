@@ -1,0 +1,6 @@
+framework module TestAnalyticFramework {
+  umbrella header "TestAnalyticFramework-umbrella.h"
+
+  export *
+  module * { export * }
+}
